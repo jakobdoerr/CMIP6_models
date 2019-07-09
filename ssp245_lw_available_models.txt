@@ -1,7 +1,8 @@
 Model, N_ens 
 GFDL-CM4,1 
-CanESM5,10 
+CanESM5,2 
 UKESM1-0-LL,5 
+MIROC6,1 
 BCC-CSM2-MR,1 
 INM-CM5-0,1 
 INM-CM4-8,1 
