@@ -1,6 +1,7 @@
 Model, N_ens 
 GISS-E2-1-G,10 
 GISS-E2-1-H,10 
+AWI-CM-1-1-MR,5 
 UKESM1-0-LL,9 
 HadGEM3-GC31-LL,4 
 EC-Earth3,2 
