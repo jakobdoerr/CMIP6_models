@@ -5,7 +5,7 @@ GFDL-CM4,1
 CanESM5,25 
 UKESM1-0-LL,8 
 HadGEM3-GC31-LL,4 
-EC-Earth3,2 
+EC-Earth3,3 
 EC-Earth3-Veg,1 
 MIROC6,10 
 INM-CM5-0,1 
