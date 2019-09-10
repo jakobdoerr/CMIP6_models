@@ -1,6 +1,7 @@
 Model, N_ens 
 GISS-E2-1-G,10 
 GISS-E2-1-H,10 
+AWI-CM-1-1-MR,5 
 GFDL-CM4,1 
 CAMS-CSM1-0,1 
 CanESM5,25 
